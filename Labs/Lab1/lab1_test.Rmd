@@ -1,0 +1,14 @@
+---
+title: "lab0_test"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## RStudio test
+
+```{r}
+print('Hello World')
+```
